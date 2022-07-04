@@ -1,0 +1,8 @@
+{
+    "min_rest" : 0,
+    "max_rest" : 2880
+    "min_flights" : 2,
+    "max_flights" : 14,
+    "min_flying_hours" : 1,
+    "max_flying_hours" : 30
+}
