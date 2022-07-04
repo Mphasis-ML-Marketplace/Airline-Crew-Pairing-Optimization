@@ -1,0 +1,11 @@
+{
+ "pairings": 248,
+ "min flying hr time": 1.3,
+ "max flying hr time": 28.58,
+ "avg flying hr time": 7.59,
+ "flying hours standard deviation ": 7.51,
+ "number of deadhead flights": 1,
+ "number of flight legs not covered": 0,
+ "min rest time": 18.0,
+ "max rest time": 872.0
+}
