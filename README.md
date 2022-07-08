@@ -11,3 +11,4 @@ This solution provides an optimized solution for Airline crew pairing considerin
 * Mphasis Optimize.AI is an AI-centric process analysis and optimization tool that uses AI/ML techniques to mine the event logs to deliver business insights. Need customized Machine Learning and Deep Learning solutions? Get in touch!
 
 ## Amazon Marketplace Link
+[Product on AWS Marketplace](https://aws.amazon.com/marketplace/pp/prodview-iye3kfh7pdc4e)
